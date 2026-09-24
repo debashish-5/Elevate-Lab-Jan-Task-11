@@ -1,6 +1,4 @@
-Here is a standard `README.md` file designed specifically for your [Elevate-Lab-Jan-Task-11](https://github.com/debashish-5/Elevate-Lab-Jan-Task-11?utm_source=gemini) repository based on its contents:
 
-```markdown
 # Breast Cancer Diagnostic Classification using SVM
 
 This repository contains an end-to-end Machine Learning pipeline for diagnosing breast cancer using Support Vector Machines (SVM). The project covers dataset exploration, pre-processing, model training, evaluation, and pipeline serialization for deployment.
